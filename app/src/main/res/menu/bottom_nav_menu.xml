@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_projects" android:title="Projects" android:icon="@android:drawable/ic_menu_agenda" />
+    <item android:id="@+id/nav_sessions" android:title="Sessions" android:icon="@android:drawable/ic_menu_my_calendar" />
+    <item android:id="@+id/nav_tasks" android:title="Tasks" android:icon="@android:drawable/ic_menu_send" />
+    <item android:id="@+id/nav_stats" android:title="Stats" android:icon="@android:drawable/ic_menu_sort_by_size" />
+    <item android:id="@+id/nav_settings" android:title="Settings" android:icon="@android:drawable/ic_menu_preferences" />
+</menu>
