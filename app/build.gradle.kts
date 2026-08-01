@@ -54,7 +54,3 @@ dependencies {
     // WorkManager for reliable local notifications
     implementation("androidx.work:work-runtime-ktx:2.9.0")
 }
-
-repositories {
-    maven { url = uri("https://jitpack.io") } // for MPAndroidChart
-}
